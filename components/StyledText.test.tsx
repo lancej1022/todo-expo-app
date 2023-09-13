@@ -1,5 +1,5 @@
-import * as React from "react";
 import { screen, render } from "@testing-library/react-native";
+import * as React from "react";
 
 import { MonoText } from "./StyledText";
 
